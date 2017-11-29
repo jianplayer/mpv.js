@@ -19,6 +19,10 @@
   </a>
 </p>
 
+this project forks from https://github.com/Kagami/mpv.js, and removed react dependcy.
+
+yarn add https://github.com/Shu-Ji/mpv.js.git
+
 ## Get libmpv
 
 In order to try mpv.js you need to install mpv library first.
